@@ -1,2 +1,3 @@
 # Bikes
-Bikes usage prediction (Machine Learning, Kaggle)
+Bikes usage prediction (regression problem) using RegressionTreeEnsemble and KNeighboursRegressor.
+See 
